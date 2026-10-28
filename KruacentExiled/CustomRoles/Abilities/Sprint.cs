@@ -36,7 +36,7 @@ namespace KruacentExiled.CustomRoles.Abilities
             };
         }
 
-        public override float Cooldown { get; } = 125f;
+        public override float Cooldown { get; } = 95f;
 
         public TextImage IconName => MainPlugin.Instance.icons[Name];
 
